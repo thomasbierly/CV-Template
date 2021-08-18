@@ -1,0 +1,24 @@
+html, body {
+	background: #0B132B;
+	font-family: 'Lato', helvetica, arial, sans-serif;
+	font-size: 16px;
+	color: #50AAA9;
+}
+
+p {
+	font-size: 1em;
+	line-height: 1.4em;
+	margin-bottom: 20px;
+	color: #709CD1;
+}
+
+h1 {
+	border-bottom: 1px solid #5BC0BE;
+	padding: 20px 0 0;
+}
+
+h2 {
+	font-size: 20px;
+	color: red;
+	padding: 20px 0 0;
+}
